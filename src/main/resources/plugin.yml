@@ -1,0 +1,9 @@
+name: AstolfoNick
+version: ${project.version}
+main: tech.astolfo.astolfonick.AstolfoNick
+prefix: Astolfo
+load: STARTUP
+depend: [NickNamer]
+authors: [AstolfoDev]
+description: A nickname GUI for the Electra server
+website: https://astolfo.tech
